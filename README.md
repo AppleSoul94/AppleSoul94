@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AppleSoul94
 - ⚡ I'm a full-time Electrical Engineer in a Food Company
-- 🔭 I’m currently working on GTA Interdiction SA-MP project
+- 🔭 I’m currently working on GTA V RAGE-MP Roleplay server project
 - 👀 I’m interested in programming as full-stack developer
 - ☕ I’m currently learning JavaScripts and Python language
-- 💞️ I’m looking to collaborate on GTA V RAGE-MP Roleplay server projects
+- 💞️ I’m looking to collaborate on GTA V RAGE-MP server projects
 - ▶ Youtube : https://www.youtube.com/@applesoul
 
 
